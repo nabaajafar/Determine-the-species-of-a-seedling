@@ -8,3 +8,4 @@ CNN model architecture has three layers:
 •	Input layer which will take the image data in form of a matrix.
 •	Hidden layers which will allow neural network to learn complex features within the data.
 •	Output layer that will give the outcome.
+DataSet: https://www.kaggle.com/c/plant-seedlings-classification/data?select=train
